@@ -12,13 +12,13 @@ And... I'm a night owl who loves coding! 🦉
 
 ## About Me
 
-- 🌱 I'm currently learning JavaScript.
-- 💻 I have basic knowledge of HTML and CSS.
-- 🎯 I'm improving my Front-End Development skills through practical challenges.
-- 🚀 I enjoy building websites and learning new things.
-- 🧩 I practice by completing Frontend Mentor challenges.
+- I'm currently learning JavaScript.
+- I have basic knowledge of HTML and CSS.
+- I'm improving my Front-End Development skills through practical challenges.
+- I enjoy building websites and learning new things.
+- I practice by completing Frontend Mentor challenges.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
