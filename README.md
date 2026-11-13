@@ -42,10 +42,10 @@ And... I'm a night owl who loves coding! 🦉
 
 ## Let's Connect!
 
-Find me on Instagram: [@aazeddijne](https://www.instagram.com/aazeddijne/) 📸
+Find me on Instagram: [@aazeddijne](https://www.instagram.com/aazeddijne/)
 
 ---
 
 Thanks for visiting my profile! ⭐
 
-Happy Coding! 💻
+Happy Coding!
