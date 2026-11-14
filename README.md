@@ -38,6 +38,7 @@ And... I'm a night owl who loves coding! 🦉
 ## Currently Learning
 
 - JavaScript
+- React, Typescript
 - Responsive Web Design
 - CSS Grid & Flexbox
 - Improving my problem-solving skills
