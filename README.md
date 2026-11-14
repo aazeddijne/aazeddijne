@@ -53,6 +53,9 @@ And... I'm a night owl who loves coding! 🦉
 ## Let's Connect!
 
 Find me on Instagram: [@aazeddijne](https://www.instagram.com/aazeddijne/)
+Find me on Linkedin: (https://www.linkedin.com/in/azeddine-zahraoui-131079431/)
+Find me on Instagram: [@aazeddijne](https://www.instagram.com/aazeddijne/)
+Find me on Instagram: [@aazeddijne](https://www.instagram.com/aazeddijne/)
 
 ---
 
